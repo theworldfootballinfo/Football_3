@@ -1,0 +1,8 @@
+name = "football3"
+main = "functions/worker.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "FOOTBALL_KV"
+id = "your-kv-namespace-id"
+preview_id = "your-kv-namespace-id"
